@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an Artist and love to draw.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-shukla-2153bb147)
+[![Prakhar Shukla LinkedIn](https://img.shields.io/badge/LinkedIn-Prakhar%20Shukla-blue?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/prakhar-shukla-frontend-dev?trk=profile-badge)
 
 [![@prakhar19970's Holopin board](https://holopin.me/prakhar19970)](https://holopin.io/@prakhar19970)
