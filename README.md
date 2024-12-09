@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently learning about more frameworks in FrontEnd (VueJS & React) 
+- 🔭 I’m currently learning on new frameworks in FrontEnd and practising some cool stuff in a while 
 - 🌱 I’m currently learning DS
 - 📫 How to reach me: prakharshukla20160@gmail.com
 - [![Prakhar Shukla LinkedIn](https://img.shields.io/badge/LinkedIn-Prakhar%20Shukla-blue?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/prakhar-shukla-frontend-dev?trk=profile-badge)
