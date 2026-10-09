@@ -1,6 +1,6 @@
 <img align="right" src="./itachi.gif" width="240" alt="Transparent Itachi animation with a drifting crow and crimson feathers" />
 
-# Hi, I'm Prakhar 👋
+<h3>Hi, I'm Prakhar 👋</h3>
 
 **Software Engineer · Frontend & Product Engineering**
 
