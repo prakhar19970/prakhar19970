@@ -12,13 +12,19 @@ I enjoy turning complex workflows into clear interfaces, building reusable compo
 
 [LinkedIn](https://www.linkedin.com/in/prakhar-shukla-frontend-dev/) · [Email](mailto:prakharshukla20160@gmail.com)
 
-### What I build
+<h3>
+  <img src="./forging-mizu.gif" width="80" alt="Sword forging" />
+  What I build
+</h3>
 
 - Product interfaces with React, Next.js and Vue.
 - Dashboards, onboarding journeys and reusable UI systems.
 - APIs and integrations with Node.js when the product needs them.
 
-### What I'm exploring
+<h3>
+  <img src="./usopp-one-piece.gif" width="80" alt="Usopp looking through binoculars" />
+  What I'm exploring
+</h3>
 
 - Frontend system design, architecture and performance.
 - AI and how it can fit into useful products.
